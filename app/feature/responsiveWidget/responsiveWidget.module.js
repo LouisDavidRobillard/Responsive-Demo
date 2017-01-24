@@ -1,6 +1,6 @@
 (function () {
     'use strict';
 
-    angular.module('app.feature', [
+    angular.module('app.responsiveWidget', [
     ]);
 })();

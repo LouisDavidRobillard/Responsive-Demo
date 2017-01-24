@@ -5,7 +5,7 @@
         // Angular modules 
 
         // Features 
-        'app.feature'
+        'app.responsiveWidget'
         // General Components
 
         // 3rd Party Modules
